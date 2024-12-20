@@ -10,3 +10,5 @@
 (define build-deps '("doc-coverage"
                      "scribble-lib"
                      "racket-doc"))
+
+(define license 'MIT)
