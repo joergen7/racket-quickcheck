@@ -4,7 +4,7 @@
 
 (define version "0.1")
 
-(define deps '("base"))
+(define deps '("base" "rackunit-lib"))
 
 (define build-deps '("doc-coverage"
                      "scribble-lib"
